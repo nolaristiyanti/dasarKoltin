@@ -67,5 +67,7 @@ class MainActivity : AppCompatActivity() {
             //intent.putExtra("Name", name)
             startActivity(intent)
         }
+
+        var branch : String = "Berhasil"
     }
 }
